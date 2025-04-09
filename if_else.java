@@ -14,7 +14,7 @@ public class if_else {
 		if (numero > 10)
 			System.out.println("o numero é maior que 10");
 		ler.close();
-
+		
 	}
 
 }

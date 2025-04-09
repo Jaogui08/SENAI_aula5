@@ -15,6 +15,8 @@ public class lengthteste02 {
 		
 		System.out.print("o tamanho da frase é de: " + tamanho + " caracteres");
 		
+		ler.close();
+		
 	}
 
 }

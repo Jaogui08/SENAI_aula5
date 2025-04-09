@@ -27,6 +27,8 @@ public class atividade_helloworld {
 		
 		System.out.println("o caracter selecionado é o: " + letra);	
 		
+		ler.close();
+		
 	}
 
 }
